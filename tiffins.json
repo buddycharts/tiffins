@@ -1,0 +1,163 @@
+[
+  {
+    "id": 1,
+    "name": "Idly",
+    "quantity": "2 Idly",
+    "selling_price": 10,
+    "original_price": 20,
+    "images": ["tiffins/1.jpeg", "tiffins/2.jpeg"],
+    "ingredients": ["Rice Batter", "Urad Dal", "Salt"],
+    "nutrition": { "protein": 4, "fats": 1, "calories": 120, "carbs": 24 }
+  },
+  {
+    "id": 2,
+    "name": "Plane Dosa",
+    "quantity": "1 Dosa",
+    "selling_price": 20,
+    "original_price": 30,
+    "images": ["tiffins/3.jpeg", "tiffins/4.jpeg"],
+    "ingredients": ["Rice Batter", "Urad Dal", "Oil"],
+    "nutrition": { "protein": 3, "fats": 4, "calories": 150, "carbs": 26 }
+  },
+  {
+    "id": 3,
+    "name": "Poori",
+    "quantity": "2 Poori",
+    "selling_price": 30,
+    "original_price": 40,
+    "images": ["tiffins/5.jpeg", "tiffins/6.jpeg"],
+    "ingredients": ["Wheat Flour", "Oil", "Salt"],
+    "nutrition": { "protein": 4, "fats": 7, "calories": 200, "carbs": 24 }
+  },
+  {
+    "id": 4,
+    "name": "Upma",
+    "quantity": "100g",
+    "selling_price": 20,
+    "original_price": 30,
+    "images": ["tiffins/7.jpeg", "tiffins/8.jpeg"],
+    "ingredients": ["Rava", "Onion", "Green Chilli", "Oil", "Mustard Seeds"],
+    "nutrition": { "protein": 3, "fats": 3, "calories": 160, "carbs": 28 }
+  },
+  {
+    "id": 5,
+    "name": "Chapati Set",
+    "quantity": "2 Chapati",
+    "selling_price": 22,
+    "original_price": 35,
+    "images": ["tiffins/9.jpeg", "tiffins/10.jpeg"],
+    "ingredients": ["Wheat Flour", "Salt", "Water"],
+    "nutrition": { "protein": 6, "fats": 2, "calories": 180, "carbs": 30 }
+  },
+  {
+    "id": 6,
+    "name": "Paratha",
+    "quantity": "1 Paratha",
+    "selling_price": 28,
+    "original_price": 40,
+    "images": ["tiffins/11.jpeg", "tiffins/12.jpeg"],
+    "ingredients": ["Wheat Flour", "Oil", "Salt"],
+    "nutrition": { "protein": 5, "fats": 6, "calories": 220, "carbs": 32 }
+  },
+  {
+    "id": 7,
+    "name": "Vada",
+    "quantity": "3 Vada",
+    "selling_price": 25,
+    "original_price": 35,
+    "images": ["tiffins/13.jpeg", "tiffins/14.jpeg"],
+    "ingredients": ["Urad Dal", "Oil", "Salt", "Pepper"],
+    "nutrition": { "protein": 6, "fats": 10, "calories": 250, "carbs": 20 }
+  },
+  {
+    "id": 8,
+    "name": "Uthappam",
+    "quantity": "1 Uthappam",
+    "selling_price": 20,
+    "original_price": 30,
+    "images": ["tiffins/15.jpeg", "tiffins/16.jpeg"],
+    "ingredients": ["Rice Batter", "Onion", "Oil", "Green Chilli"],
+    "nutrition": { "protein": 4, "fats": 3, "calories": 180, "carbs": 28 }
+  },
+  {
+    "id": 9,
+    "name": "Pesarattu",
+    "quantity": "3 Pieces",
+    "selling_price": 40,
+    "original_price": 60,
+    "images": ["tiffins/17.jpeg", "tiffins/18.jpeg"],
+    "ingredients": ["Green Gram", "Ginger", "Chilli", "Oil"],
+    "nutrition": { "protein": 12, "fats": 4, "calories": 240, "carbs": 32 }
+  },
+  {
+    "id": 10,
+    "name": "`Bonda`",
+    "quantity": "4 Bonda",
+    "selling_price": 30,
+    "original_price": 45,
+    "images": ["tiffins/19.jpeg", "tiffins/20.jpeg"],
+    "ingredients": ["Potato", "Gram Flour", "Oil", "Spices"],
+    "nutrition": { "protein": 3, "fats": 8, "calories": 210, "carbs": 22 }
+  },
+  {
+    "id": 11,
+    "name": "Mysore Bonda",
+    "quantity": "4 Mysore Bonda",
+    "selling_price": 35,
+    "original_price": 50,
+    "images": ["tiffins/21.jpeg", "tiffins/22.jpeg"],
+    "ingredients": ["Maida", "Curd", "Green Chilli", "Oil"],
+    "nutrition": { "protein": 4, "fats": 9, "calories": 230, "carbs": 24 }
+  },
+  {
+  "id": 12,
+  "name": "Onion Dosa",
+  "quantity": "1 Onion Dosa",
+  "selling_price": 40,
+  "original_price": 60,
+  "images": ["tiffins/23.jpeg", "tiffins/24.jpeg"],
+  "ingredients": ["Rice Batter", "Urad Dal", "Onion", "Oil", "Green Chilli"],
+  "nutrition": { "protein": 4, "fats": 5, "calories": 200, "carbs": 30 }
+},
+{
+  "id": 13,
+  "name": "Masala Dosa",
+  "quantity": "1 Masala Dosa",
+  "selling_price": 50,
+  "original_price": 70,
+  "images": ["tiffins/25.jpeg", "tiffins/26.jpeg"],
+  "ingredients": ["Rice Batter", "Urad Dal", "Masala Filling", "Oil"],
+  "nutrition": { "protein": 5, "fats": 6, "calories": 260, "carbs": 34 }
+},
+{
+  "id": 14,
+  "name": "Sambar Idly",
+  "quantity": "2 Idly + Sambar",
+  "selling_price": 30,
+  "original_price": 45,
+  "images": ["tiffins/27.jpeg", "tiffins/28.jpeg"],
+  "ingredients": ["Idly Batter", "Urad Dal", "Rice", "Sambar (Dal, Vegetables, Spices)"],
+  "nutrition": { "protein": 6, "fats": 2, "calories": 180, "carbs": 32 }
+},
+{
+  "id": 15,
+  "name": "Punukulu",
+  "quantity": "17 Pieces",
+  "selling_price": 20,
+  "original_price": 30,
+  "images": ["tiffins/29.jpeg", "tiffins/30.jpeg"],
+  "ingredients": ["Rice Batter", "Urad Dal", "Salt", "Oil"],
+  "nutrition": { "protein": 4, "fats": 6, "calories": 190, "carbs": 28 }
+},
+{
+  "id": 16,
+  "name": "Samosa",
+  "quantity": "1 Samosa",
+  "selling_price": 8,
+  "original_price": 15,
+  "images": ["tiffins/31.jpeg", "tiffins/32.jpeg"],
+  "ingredients": ["Maida", "Potato", "Peas", "Spices", "Oil"],
+  "nutrition": { "protein": 3, "fats": 7, "calories": 150, "carbs": 18 }
+}
+
+]
