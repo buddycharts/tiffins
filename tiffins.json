@@ -158,6 +158,28 @@
   "images": ["tiffins/31.jpeg", "tiffins/32.jpeg"],
   "ingredients": ["Maida", "Potato", "Peas", "Spices", "Oil"],
   "nutrition": { "protein": 3, "fats": 7, "calories": 150, "carbs": 18 }
+},
+{
+  "id": 17,
+  "name": "Semiya Upma",
+  "quantity": "1 Plate (120g)",
+  "selling_price": 25,
+  "original_price": 35,
+  "images": ["tiffins/33.jpg", "tiffins/34.jpg"],
+  "ingredients": ["Vermicelli", "Onion", "Green Chilli", "Oil", "Mustard Seeds", "Curry Leaves"],
+  "nutrition": { "protein": 4, "fats": 4, "calories": 180, "carbs": 32 }
+},
+{
+  "id": 18,
+  "name": "Egg Omelette",
+  "quantity": "2 Eggs",
+  "selling_price": 30,
+  "original_price": 45,
+  "images": ["tiffins/35.jpg", "tiffins/36.jpg"],
+  "ingredients": ["Eggs", "Onion", "Green Chilli", "Oil", "Salt", "Pepper"],
+  "nutrition": { "protein": 12, "fats": 10, "calories": 160, "carbs": 2 }
 }
 
+
 ]
+
